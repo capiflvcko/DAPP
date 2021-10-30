@@ -28,6 +28,7 @@
     "truffle-hdwallet-provider-privkey": "^0.3.0",
     "web3": "^1.3.0"
   },
+  "homepage" : "http//capiflvcko.github.io/DAPP",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
